@@ -1,8 +1,8 @@
 {
-  "version":"1.0.0.200",
-  "url":"https://github.com/machariabmw/RayMacHDBM/releases/download/v1.0/RayMacHDBM1.0.0.200.exe",
+  "version":"1.0.0.300",
+  "url":"https://github.com/machariabmw/RayMacHDBM/releases/download/v1.0/RayMacHDBM1.0.0.300.exe",
   "notes": [
     "Hotel POS DB Manager",
-    "Includes Migration Max V106"
+    "Includes Migration Max V107"
   ]
 }
